@@ -1,0 +1,19 @@
+form {
+  background-color: rgb(190, 200, 207);
+  width: 400px;
+  height: 520px;
+  padding: 75px;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  height: 2em;
+  border-radius: 5px;
+}
+
+.form-style {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
