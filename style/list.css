@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 90px 50px;
+  background-color: aquamarine;
+}
+ul li {
+  list-style-type: lower-alpha;
+}
